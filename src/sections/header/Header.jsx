@@ -3,8 +3,8 @@ import HeaderImage from "../../assets/header.jpg";
 import data from "./data";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { MdDesignServices, MdCode, MdVideoLibrary } from "react-icons/md";
-import { HiServer } from "react-icons/hi";
+import { FaReact, FaAngular, FaJs, FaBootstrap, FaWordpress } from "react-icons/fa";
+import { SiTypescript } from "react-icons/si";
 import "./header.css";
 
 const Header = () => {
@@ -42,18 +42,18 @@ const Header = () => {
         <div className="profile__area">
           <div className="outer__circle">
             <span>
-              <MdDesignServices />
+              <FaReact />
             </span>
             <span>
-              <HiServer />
+              <FaJs />
             </span>
             <span>
-              <MdCode />
+              <SiTypescript />
             </span>
             <span>
-              <MdVideoLibrary />
+              <FaBootstrap />
             </span>
-          </div>
+          </div>;
           <div className="inner__circle">
             <img src={HeaderImage} alt="Header Portrait" />
           </div>

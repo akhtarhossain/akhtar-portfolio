@@ -116,7 +116,7 @@ header {
 
 .inner__circle {
   position: absolute;
-  width: 18rem;
+  width: 22rem;
   aspect-ratio: 1/1;
   border-radius: 50%;
   overflow: hidden;
@@ -181,7 +181,7 @@ header {
   }
 
   .inner__circle {
-    width: 15rem;
+    width: 19rem;
     margin: 0 auto;
   }
 }
@@ -264,7 +264,7 @@ header {
   }
 
   .inner__circle {
-    width: 10rem;
+    width: 14rem;
     aspect-ratio: 1/1;
   }
 }
