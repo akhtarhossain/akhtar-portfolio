@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/akhtar-portfolio/static/css/main.4470dac1.css",
-    "main.js": "/akhtar-portfolio/static/js/main.743eddf4.js",
+    "main.css": "/akhtar-portfolio/static/css/main.576dfbe5.css",
+    "main.js": "/akhtar-portfolio/static/js/main.e2cafdc5.js",
     "static/media/new.png": "/akhtar-portfolio/static/media/new.7031211ffadd969b18d9.png",
     "static/media/about.jpg": "/akhtar-portfolio/static/media/about.ff3068a7e7a7cf71ae54.jpg",
     "static/media/new 1.png": "/akhtar-portfolio/static/media/new 1.722832455c9ea62b70f0.png",
@@ -9,11 +9,11 @@
     "static/media/project1.jpg": "/akhtar-portfolio/static/media/project1.5cec46bd193a7eb80f22.jpg",
     "static/media/header.jpg": "/akhtar-portfolio/static/media/header.bebfa08aacbc7d70902a.jpg",
     "index.html": "/akhtar-portfolio/index.html",
-    "main.4470dac1.css.map": "/akhtar-portfolio/static/css/main.4470dac1.css.map",
-    "main.743eddf4.js.map": "/akhtar-portfolio/static/js/main.743eddf4.js.map"
+    "main.576dfbe5.css.map": "/akhtar-portfolio/static/css/main.576dfbe5.css.map",
+    "main.e2cafdc5.js.map": "/akhtar-portfolio/static/js/main.e2cafdc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4470dac1.css",
-    "static/js/main.743eddf4.js"
+    "static/css/main.576dfbe5.css",
+    "static/js/main.e2cafdc5.js"
   ]
 }
